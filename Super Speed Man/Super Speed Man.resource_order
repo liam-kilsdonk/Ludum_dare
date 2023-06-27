@@ -21,5 +21,7 @@
     {"name":"sp_wall","order":3,"path":"sprites/sp_wall/sp_wall.yy",},
     {"name":"ob_enemy","order":2,"path":"objects/ob_enemy/ob_enemy.yy",},
     {"name":"ob_wall","order":1,"path":"objects/ob_wall/ob_wall.yy",},
+    {"name":"ob_camera","order":2,"path":"objects/ob_camera/ob_camera.yy",},
+    {"name":"ob_incline","order":3,"path":"objects/ob_incline/ob_incline.yy",},
   ],
 }
