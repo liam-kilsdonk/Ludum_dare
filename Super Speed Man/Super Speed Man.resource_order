@@ -1,6 +1,6 @@
 {
   "FolderOrderSettings": [
-    {"name":"0","order":10,"path":"folders/0.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -19,7 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"sp_enemy","order":4,"path":"sprites/sp_enemy/sp_enemy.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"level2","order":3,"path":"rooms/level2/level2.yy",},
     {"name":"sp_wall","order":3,"path":"sprites/sp_wall/sp_wall.yy",},
     {"name":"ob_enemy","order":2,"path":"objects/ob_enemy/ob_enemy.yy",},
     {"name":"level3","order":1,"path":"rooms/level3/level3.yy",},
