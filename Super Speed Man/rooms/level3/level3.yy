@@ -71,6 +71,9 @@
     {"name":"inst_33F5948B","path":"rooms/level3/level3.yy",},
     {"name":"inst_35299907","path":"rooms/level3/level3.yy",},
     {"name":"inst_706064A","path":"rooms/level3/level3.yy",},
+
+    {"name":"inst_2606D3FB","path":"rooms/level3/level3.yy",},
+
     {"name":"inst_14FAB4DA","path":"rooms/level3/level3.yy",},
     {"name":"inst_4829528E","path":"rooms/level3/level3.yy",},
     {"name":"inst_23643054","path":"rooms/level3/level3.yy",},
@@ -147,6 +150,7 @@
     {"name":"inst_62D3B2A5","path":"rooms/level3/level3.yy",},
     {"name":"inst_2BDC3C0C","path":"rooms/level3/level3.yy",},
     {"name":"inst_42A1B78A","path":"rooms/level3/level3.yy",},
+
     {"name":"inst_F95836A","path":"rooms/level3/level3.yy",},
     {"name":"inst_2723478B","path":"rooms/level3/level3.yy",},
     {"name":"inst_5E8C3D37","path":"rooms/level3/level3.yy",},
