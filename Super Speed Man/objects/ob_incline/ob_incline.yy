@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sp_incline",
-    "path": "sprites/sp_incline/sp_incline.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
