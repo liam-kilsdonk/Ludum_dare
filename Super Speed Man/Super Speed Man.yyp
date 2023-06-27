@@ -303,6 +303,7 @@
     {"id":{"name":"ob_enemy","path":"objects/ob_enemy/ob_enemy.yy",},},
     {"id":{"name":"sp_player","path":"sprites/sp_player/sp_player.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
+    {"id":{"name":"level3","path":"rooms/level3/level3.yy",},},
     {"id":{"name":"ob_lava","path":"objects/ob_lava/ob_lava.yy",},},
     {"id":{"name":"sp_lava_top","path":"sprites/sp_lava_top/sp_lava_top.yy",},},
     {"id":{"name":"sp_clock","path":"sprites/sp_clock/sp_clock.yy",},},
@@ -319,6 +320,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"level3","path":"rooms/level3/level3.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "TextureGroups": [

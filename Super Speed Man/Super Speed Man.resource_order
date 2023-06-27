@@ -20,6 +20,8 @@
     {"name":"sp_enemy","order":4,"path":"sprites/sp_enemy/sp_enemy.yy",},
     {"name":"sp_wall","order":3,"path":"sprites/sp_wall/sp_wall.yy",},
     {"name":"ob_enemy","order":2,"path":"objects/ob_enemy/ob_enemy.yy",},
+
+    {"name":"level3","order":1,"path":"rooms/level3/level3.yy",},
     {"name":"ob_lava","order":5,"path":"objects/ob_lava/ob_lava.yy",},
     {"name":"sp_lava_top","order":7,"path":"sprites/sp_lava_top/sp_lava_top.yy",},
     {"name":"sp_clock","order":6,"path":"sprites/sp_clock/sp_clock.yy",},
