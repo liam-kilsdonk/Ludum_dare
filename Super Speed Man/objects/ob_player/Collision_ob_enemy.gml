@@ -6,6 +6,7 @@ if( vsp > 0){
 	if( height < 0){
 		vsp = -jumpPower*0.8;
 		with (other){
+//			= + time;
 			instance_destroy();
 		}
 	}

@@ -1,5 +1,5 @@
 hsp = 0;
-vsp = 5;
+vsp = 0;
 grv = 0.4;
 jumpPower = 11;
 walksp = 7;
