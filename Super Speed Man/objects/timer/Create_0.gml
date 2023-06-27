@@ -1,6 +1,6 @@
 /// @description Set_Up
 
-minutes = 1
+minutes = 0
 seconds = 10
 miliseconds = 0
 
