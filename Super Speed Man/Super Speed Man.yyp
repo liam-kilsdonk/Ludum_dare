@@ -298,8 +298,9 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"sp_enemy","path":"sprites/sp_enemy/sp_enemy.yy",},},
     {"id":{"name":"sp_wall","path":"sprites/sp_wall/sp_wall.yy",},},
-    {"id":{"name":"sp_incline","path":"sprites/sp_incline/sp_incline.yy",},},
+    {"id":{"name":"ob_enemy","path":"objects/ob_enemy/ob_enemy.yy",},},
     {"id":{"name":"sp_player","path":"sprites/sp_player/sp_player.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
     {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
