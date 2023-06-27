@@ -298,9 +298,12 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"sp_wall","path":"sprites/sp_wall/sp_wall.yy",},},
+    {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
     {"id":{"name":"sp_player","path":"sprites/sp_player/sp_player.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
+    {"id":{"name":"timertext","path":"fonts/timertext/timertext.yy",},},
     {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
