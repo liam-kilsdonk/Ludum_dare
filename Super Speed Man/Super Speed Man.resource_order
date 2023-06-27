@@ -19,7 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"sp_enemy","order":4,"path":"sprites/sp_enemy/sp_enemy.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
     {"name":"sp_wall","order":3,"path":"sprites/sp_wall/sp_wall.yy",},
     {"name":"ob_enemy","order":2,"path":"objects/ob_enemy/ob_enemy.yy",},
     {"name":"level3","order":1,"path":"rooms/level3/level3.yy",},
