@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Enemy interaction
 // You can write your code in this editor
 
 if( vsp > 0){
