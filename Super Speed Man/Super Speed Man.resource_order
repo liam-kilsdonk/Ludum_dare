@@ -29,8 +29,9 @@
     {"name":"ob_clock","order":6,"path":"objects/ob_clock/ob_clock.yy",},
     {"name":"ob_wall","order":1,"path":"objects/ob_wall/ob_wall.yy",},
     {"name":"ob_draw","order":3,"path":"objects/ob_draw/ob_draw.yy",},
-    {"name":"ob_camera","order":2,"path":"objects/ob_camera/ob_camera.yy",},
-    {"name":"timer","order":4,"path":"objects/timer/timer.yy",},
+    {"name":"debugtext","order":1,"path":"fonts/debugtext/debugtext.yy",},
+    {"name":"ob_camera","order":8,"path":"objects/ob_camera/ob_camera.yy",},
+    {"name":"ob_timer","order":4,"path":"objects/ob_timer/ob_timer.yy",},
     {"name":"ob_incline","order":3,"path":"objects/ob_incline/ob_incline.yy",},
   ],
 }

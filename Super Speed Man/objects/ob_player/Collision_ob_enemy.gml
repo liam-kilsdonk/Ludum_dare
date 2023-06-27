@@ -6,7 +6,7 @@ if( vsp > 0){
 	if( height < 0){
 		vsp = -jumpPower*0.8;
 		with (other){
-//			= + time;
+			ob_timer.seconds = ob_timer.seconds + time;
 			instance_destroy();
 		}
 	}
