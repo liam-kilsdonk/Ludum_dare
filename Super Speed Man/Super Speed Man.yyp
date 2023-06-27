@@ -299,9 +299,12 @@
   },
   "resources": [
     {"id":{"name":"sp_wall","path":"sprites/sp_wall/sp_wall.yy",},},
+    {"id":{"name":"sp_incline","path":"sprites/sp_incline/sp_incline.yy",},},
     {"id":{"name":"sp_player","path":"sprites/sp_player/sp_player.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
     {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
+    {"id":{"name":"ob_camera","path":"objects/ob_camera/ob_camera.yy",},},
+    {"id":{"name":"ob_incline","path":"objects/ob_incline/ob_incline.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
