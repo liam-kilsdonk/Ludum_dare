@@ -15,5 +15,5 @@ if seconds =-1{
 if!(seconds = 0&&minutes=0&&miliseconds=0){
 	alarm[0]=6
 }else{
-	game_end()
+	game_restart()
 }
