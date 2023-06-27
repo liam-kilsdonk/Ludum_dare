@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"0","folderPath":"folders/0.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
@@ -315,6 +315,7 @@
     {"id":{"name":"timertext","path":"fonts/timertext/timertext.yy",},},
     {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
     {"id":{"name":"ob_camera","path":"objects/ob_camera/ob_camera.yy",},},
+    {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
     {"id":{"name":"ob_incline","path":"objects/ob_incline/ob_incline.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
