@@ -42,3 +42,17 @@ if(place_meeting(x,y+vsp,ob_wall))
 }
 
 y = y + vsp;
+
+if room_get_name != "level3" {
+
+} else if room_get_name != "room1"  {
+if(y > 1360){
+	instance_destroy();
+	game_restart();
+}
+}
+
+if(place_meeting(x+hsp,y,ob_end_flag))
+{
+}
+
