@@ -17,8 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"sp_player_walk","order":1,"path":"sprites/sp_player_walk/sp_player_walk.yy",},
-    {"name":"TileSet1","order":3,"path":"tilesets/TileSet1/TileSet1.yy",},
-    {"name":"sp_player_jump","order":2,"path":"sprites/sp_player_jump/sp_player_jump.yy",},
+    {"name":"sp_enemy","order":4,"path":"sprites/sp_enemy/sp_enemy.yy",},
+    {"name":"sp_wall","order":3,"path":"sprites/sp_wall/sp_wall.yy",},
+    {"name":"ob_enemy","order":2,"path":"objects/ob_enemy/ob_enemy.yy",},
+    {"name":"ob_wall","order":1,"path":"objects/ob_wall/ob_wall.yy",},
+    {"name":"ob_camera","order":2,"path":"objects/ob_camera/ob_camera.yy",},
+    {"name":"ob_incline","order":3,"path":"objects/ob_incline/ob_incline.yy",},
   ],
 }
