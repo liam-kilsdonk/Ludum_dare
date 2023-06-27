@@ -30,6 +30,7 @@
     {"name":"ob_clock","order":6,"path":"objects/ob_clock/ob_clock.yy",},
     {"name":"ob_wall","order":1,"path":"objects/ob_wall/ob_wall.yy",},
     {"name":"ob_draw","order":3,"path":"objects/ob_draw/ob_draw.yy",},
+    {"name":"level4","order":2,"path":"rooms/level4/level4.yy",},
     {"name":"ob_camera","order":2,"path":"objects/ob_camera/ob_camera.yy",},
     {"name":"timer","order":4,"path":"objects/timer/timer.yy",},
     {"name":"ob_incline","order":3,"path":"objects/ob_incline/ob_incline.yy",},
