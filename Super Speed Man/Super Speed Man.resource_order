@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings": [
+    {"name":"0","order":10,"path":"folders/0.yy",},
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -7,7 +8,6 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
-    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
@@ -20,9 +20,19 @@
     {"name":"sp_enemy","order":4,"path":"sprites/sp_enemy/sp_enemy.yy",},
     {"name":"sp_wall","order":3,"path":"sprites/sp_wall/sp_wall.yy",},
     {"name":"ob_enemy","order":2,"path":"objects/ob_enemy/ob_enemy.yy",},
+
     {"name":"level3","order":1,"path":"rooms/level3/level3.yy",},
+    {"name":"ob_lava","order":5,"path":"objects/ob_lava/ob_lava.yy",},
+    {"name":"sp_lava_top","order":7,"path":"sprites/sp_lava_top/sp_lava_top.yy",},
+    {"name":"sp_clock","order":6,"path":"sprites/sp_clock/sp_clock.yy",},
+    {"name":"ob_speed","order":4,"path":"objects/ob_speed/ob_speed.yy",},
+    {"name":"ob_lava_top","order":7,"path":"objects/ob_lava_top/ob_lava_top.yy",},
+    {"name":"sp_lava","order":5,"path":"sprites/sp_lava/sp_lava.yy",},
+    {"name":"ob_clock","order":6,"path":"objects/ob_clock/ob_clock.yy",},
     {"name":"ob_wall","order":1,"path":"objects/ob_wall/ob_wall.yy",},
+    {"name":"ob_draw","order":3,"path":"objects/ob_draw/ob_draw.yy",},
     {"name":"ob_camera","order":2,"path":"objects/ob_camera/ob_camera.yy",},
+    {"name":"timer","order":4,"path":"objects/timer/timer.yy",},
     {"name":"ob_incline","order":3,"path":"objects/ob_incline/ob_incline.yy",},
   ],
 }

@@ -42,3 +42,8 @@ if(place_meeting(x,y+vsp,ob_wall))
 }
 
 y = y + vsp;
+
+if(y > 780){
+	instance_destroy();
+	game_restart();
+}
