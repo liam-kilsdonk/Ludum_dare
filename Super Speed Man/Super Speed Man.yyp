@@ -320,15 +320,15 @@
     {"id":{"name":"level4","path":"rooms/level4/level4.yy",},},
     {"id":{"name":"timertext","path":"fonts/timertext/timertext.yy",},},
     {"id":{"name":"ob_camera","path":"objects/ob_camera/ob_camera.yy",},},
-    {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
+    {"id":{"name":"ob_timer","path":"objects/ob_timer/ob_timer.yy",},},
     {"id":{"name":"ob_incline","path":"objects/ob_incline/ob_incline.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"level3","path":"rooms/level3/level3.yy",},},
     {"roomId":{"name":"level4","path":"rooms/level4/level4.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
