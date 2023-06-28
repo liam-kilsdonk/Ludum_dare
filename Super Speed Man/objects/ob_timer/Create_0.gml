@@ -3,7 +3,7 @@
  
 
 minutes = 0
-seconds = 60
+seconds = 10
 miliseconds = 0
 
  
