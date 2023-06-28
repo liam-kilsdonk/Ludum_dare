@@ -17,7 +17,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"sp_enemy","order":4,"path":"sprites/sp_enemy/sp_enemy.yy",},
     {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
     {"name":"sp_wall","order":3,"path":"sprites/sp_wall/sp_wall.yy",},
     {"name":"ob_enemy","order":2,"path":"objects/ob_enemy/ob_enemy.yy",},
@@ -31,6 +30,7 @@
     {"name":"ob_lava_top","order":7,"path":"objects/ob_lava_top/ob_lava_top.yy",},
     {"name":"sp_lava","order":5,"path":"sprites/sp_lava/sp_lava.yy",},
     {"name":"ob_clock","order":6,"path":"objects/ob_clock/ob_clock.yy",},
+    {"name":"sp_enemy","order":9,"path":"sprites/sp_enemy/sp_enemy.yy",},
     {"name":"ob_wall","order":1,"path":"objects/ob_wall/ob_wall.yy",},
     {"name":"ob_draw","order":3,"path":"objects/ob_draw/ob_draw.yy",},
     {"name":"level4","order":2,"path":"rooms/level4/level4.yy",},

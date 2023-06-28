@@ -298,7 +298,6 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
-    {"id":{"name":"sp_enemy","path":"sprites/sp_enemy/sp_enemy.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"sp_wall","path":"sprites/sp_wall/sp_wall.yy",},},
     {"id":{"name":"ob_enemy","path":"objects/ob_enemy/ob_enemy.yy",},},
@@ -314,6 +313,7 @@
     {"id":{"name":"ob_lava_top","path":"objects/ob_lava_top/ob_lava_top.yy",},},
     {"id":{"name":"sp_lava","path":"sprites/sp_lava/sp_lava.yy",},},
     {"id":{"name":"ob_clock","path":"objects/ob_clock/ob_clock.yy",},},
+    {"id":{"name":"sp_enemy","path":"sprites/sp_enemy/sp_enemy.yy",},},
     {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
     {"id":{"name":"ob_draw","path":"objects/ob_draw/ob_draw.yy",},},
     {"id":{"name":"level4","path":"rooms/level4/level4.yy",},},
