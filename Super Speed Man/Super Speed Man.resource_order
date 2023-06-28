@@ -1,6 +1,6 @@
 {
   "FolderOrderSettings": [
-    {"name":"0","order":10,"path":"folders/0.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
